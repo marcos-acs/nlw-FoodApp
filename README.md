@@ -1,6 +1,6 @@
 # NLW Pocket Mobile
 
-![preview]()
+![preview](./assets/images/Thumbnail.png)
 
 > Trilha Explorer
 
